@@ -10,12 +10,12 @@ function auth() {
 
      if (username === "admin" && password ==="admin@123") {
       alert("You have successfully logged in.");           
-      window.open('../html/dash.html');
+      window.open('html/dash.html');
     }
 
     else if (username === "student" && password ==="welcome") {
       alert("You have successfully logged in."); 
-      window.open("../html/student.html");
+      window.open("html/student.html");
       return false;
     }
 
