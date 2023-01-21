@@ -559,29 +559,10 @@ tr:nth-child(even) {
   color: #3C2A21;
 }
 
-footer{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: #111;
-  height: auto;
-  width: 100vw;
-  padding-top: 40px;
-  color: #fff;
-}
-
-.footer-content{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  text-align: center;
-}
 
 footer {
-  text-align: center;
-  padding: 3px;
-  position: relative;
-  top:320px;
+	text-align: center;
+  	padding: 3px;
+  	position: relative;
+	top:320px;
 }
