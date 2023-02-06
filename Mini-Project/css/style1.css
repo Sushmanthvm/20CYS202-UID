@@ -457,3 +457,10 @@ tr:nth-child(even) {
   font-size: 2em;
   color: #3C2A21;
 }
+
+footer {
+	text-align: center;
+  	padding: 3px;
+  	position: relative;
+	top:320px;
+}
